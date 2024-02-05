@@ -6,13 +6,37 @@
 </head>
 <body>
 <div>
+<h1>イベント運営サービス</h1>
 イベントを作成します。
 </div>
 <form>
-イベント名 : <input id='event_name' value='春のパン祭り'>
+<br>
+イベント種類 : 
+<select id='event_category'>
+<option>マラソン</option>
+<option>フード</option>
+<option selected>マラソン+フード</option>
+<option>トレッキング</option>
+</select>
+イベント名 : 
+<input id='event_name' value='〇〇マラソン'>
 <input type='button' value='作成' onclick='make_fes();' >
 </form>
-<div id='output'>
+<br>
+<div id='output' style='visibility:hidden' >
+<div>
+<h2>概要</h2>
+<textarea id='event_description' rows='4' cols='40' ></textarea>
+</div>
+<div>
+<h2>スケジュール</h2>
+<textarea id='event_schedule' rows='4' cols='40' ></textarea>
+</div>
+<div>
+<h2>地図</h2>
+<textarea id='event_map' rows='4' cols='40' ></textarea>
+</div>
+
 </div>
 
 </body>
