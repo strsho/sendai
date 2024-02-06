@@ -20,7 +20,21 @@
 </select>
 イベント名 : 
 <input id='event_name' value='〇〇マラソン'>
+<br>
+開催場所 : 
+<input id='event_place' value='〇〇センター'>
+住所：
+<input id='event_address' size='40' value='〇〇県〇〇市〇〇　〇丁目〇番〇号'>
+<br>
+開催日 : 
+<input id='event_year' size='4' value='2023'>年
+<input id='event_month' size='2' value='〇〇'>月
+<input id='event_day' size='2' value='〇〇'>日
+
+
+<br>
 <input type='button' value='作成' onclick='make_fes();' >
+
 </form>
 <br>
 <div id='output' style='visibility:hidden' >
@@ -35,6 +49,18 @@
 <div>
 <h2>地図</h2>
 <textarea id='event_map' rows='4' cols='40' ></textarea>
+</div>
+<div>
+<iframe id='event_mapframe' src='https://www.google.com/maps/embed?q=%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6' style='position:relative' ></iframe>
+</div>
+
+<div>
+<h2>プロジェクト管理</h2>
+<ul>
+<li>作業チェックリスト
+<li>スケジュール表
+<li>案内メール作成
+</ul>
 </div>
 
 </div>
