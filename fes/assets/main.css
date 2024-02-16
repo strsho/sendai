@@ -17,3 +17,13 @@
   color         : #ff7f7f;     /* 背景色     */
   background    : #ffffff;     /* 文字色     */
 }
+
+th {
+  background-color: #40c0e0;
+}
+
+td {
+  background-color: #e0e0f0;
+}
+
+
