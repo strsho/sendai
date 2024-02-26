@@ -2,7 +2,7 @@
 const style = {
   'Point': new ol.style.Style({
     image: new ol.style.CircleStyle({
-      fill: new Fill({
+      fill: new ol.style.Fill({
         color: 'rgba(255,255,0,0.4)',
       }),
       radius: 5,
