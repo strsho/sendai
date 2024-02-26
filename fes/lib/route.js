@@ -19,7 +19,7 @@ const map = new ol.Map({
   ],
   target: 'map',
   view: new ol.View({
-    center: [135, 35],
+    center: [35, 135],
     zoom: 8,
   }),
 });
