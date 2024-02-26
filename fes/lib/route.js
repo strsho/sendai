@@ -19,7 +19,8 @@ const map = new ol.Map({
   ],
   target: 'map',
   view: new ol.View({
-    center: [35, 135],
+    projection: "EPSG-4326",
+    center: [139.618, 35.412],
     zoom: 8,
   }),
 });
