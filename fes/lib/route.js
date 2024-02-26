@@ -1,7 +1,7 @@
 
 const style = {
   'Point': new ol.style.Style({
-    image: new ol.style.CircleStyle({
+    image: new ol.style.Circle({
       fill: new ol.style.Fill({
         color: 'rgba(255,255,0,0.4)',
       }),
