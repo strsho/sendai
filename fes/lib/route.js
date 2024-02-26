@@ -1,25 +1,25 @@
 
 const style = {
-  'Point': new Style({
-    image: new CircleStyle({
+  'Point': new ol.style.Style({
+    image: new ol.style.CircleStyle({
       fill: new Fill({
         color: 'rgba(255,255,0,0.4)',
       }),
       radius: 5,
-      stroke: new Stroke({
+      stroke: new ol.style.Stroke({
         color: '#ff0',
         width: 1,
       }),
     }),
   }),
-  'LineString': new Style({
-    stroke: new Stroke({
+  'LineString': new ol.style.Style({
+    stroke: new ol.style.Stroke({
       color: '#f00',
       width: 3,
     }),
   }),
-  'MultiLineString': new Style({
-    stroke: new Stroke({
+  'MultiLineString': new ol.style.Style({
+    stroke: new ol.style.Stroke({
       color: '#0f0',
       width: 3,
     }),
