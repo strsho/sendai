@@ -26,12 +26,14 @@ const style = {
   }),
 };
 
+
 const vector = new ol.layer.Vector({
   source: new ol.source.Vector({
     url: 'data/rk1.gpx',
     format: new ol.format.GPX(),
   }),
   style: function (feature) {
+    console.log(feature);
     return style[feature.getGeometry().getType()];
   },
 });
