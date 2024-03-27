@@ -8,37 +8,37 @@
 	<description />
 	<Style id="h0">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>99ff0000</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h1">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>9999ff00</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h2">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>9900ff00</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h3">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>9900ff99</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h4">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>990099ff</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h5">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>990000ff</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>

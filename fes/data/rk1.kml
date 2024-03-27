@@ -8,37 +8,37 @@
 	<description />
 	<Style id="h0">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>99ff0000</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h1">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>9999ff00</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h2">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>9900ff00</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h3">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>9900ff99</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h4">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>990099ff</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="h5">
 		<LineStyle>
-			<color>99ff9900</color>
+			<color>990000ff</color>
 			<width>6</width>
 		</LineStyle>
 	</Style>
@@ -178,7 +178,7 @@
 </coordinates></LineString><Placemark><styleUrl>#h1</styleUrl></Placemark><LineString><coordinates>139.60858,35.413338
 139.60843,35.413334
 </coordinates></LineString><Placemark><styleUrl>#h3</styleUrl></Placemark><LineString><coordinates>139.60835,35.413124
-</coordinates></LineString><Placemark><styleUrl>#h7</styleUrl></Placemark><LineString><coordinates>139.60843,35.41331
+</coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.60843,35.41331
 139.60835,35.413094
 </coordinates></LineString><Placemark><styleUrl>#h1</styleUrl></Placemark><LineString><coordinates>139.60869,35.413437
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.60866,35.413326
@@ -315,17 +315,17 @@
 </coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.6104,35.41037
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.61052,35.41065
 </coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.61041,35.410713
-</coordinates></LineString><Placemark><styleUrl>#h7</styleUrl></Placemark><LineString><coordinates>139.61012,35.41062
+139.61012,35.41062
 </coordinates></LineString><Placemark><styleUrl>#h4</styleUrl></Placemark><LineString><coordinates>139.61012,35.41054
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.61002,35.41054
 </coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.60992,35.41051
 </coordinates></LineString><Placemark><styleUrl>#h4</styleUrl></Placemark><LineString><coordinates>139.60983,35.41053
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.60976,35.410606
 </coordinates></LineString><Placemark><styleUrl>#h2</styleUrl></Placemark><LineString><coordinates>139.60968,35.410683
-</coordinates></LineString><Placemark><styleUrl>#h7</styleUrl></Placemark><LineString><coordinates>139.60951,35.41073
+</coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.60951,35.41073
 </coordinates></LineString><Placemark><styleUrl>#h3</styleUrl></Placemark><LineString><coordinates>139.60942,35.410725
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.60956,35.410717
-</coordinates></LineString><Placemark><styleUrl>#h7</styleUrl></Placemark><LineString><coordinates>139.60983,35.41056
+</coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.60983,35.41056
 </coordinates></LineString><Placemark><styleUrl>#h4</styleUrl></Placemark><LineString><coordinates>139.60979,35.41064
 139.60986,35.41071
 </coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.60959,35.410713
@@ -335,7 +335,7 @@
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.6096,35.41064
 </coordinates></LineString><Placemark><styleUrl>#h4</styleUrl></Placemark><LineString><coordinates>139.60953,35.410706
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.60988,35.411137
-</coordinates></LineString><Placemark><styleUrl>#h7</styleUrl></Placemark><LineString><coordinates>139.60983,35.411007
+</coordinates></LineString><Placemark><styleUrl>#h6</styleUrl></Placemark><LineString><coordinates>139.60983,35.411007
 139.6099,35.41113
 139.60999,35.41122
 </coordinates></LineString><Placemark><styleUrl>#h0</styleUrl></Placemark><LineString><coordinates>139.61003,35.41129
