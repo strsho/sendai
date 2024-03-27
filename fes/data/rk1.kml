@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ns0:kml xmlns:ns0="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.w3.org/2005/Atom">
-<ns0:Document>
-	<ns0:name>sample</ns0:name>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sample</name>
 	<ns1:author>
 		<ns1:name>sample</ns1:name>
 	</ns1:author>
-	<ns0:description />
-	<ns0:Style id="h0">
-		<ns0:LineStyle>
-			<ns0:color>99ff9900</ns0:color>
-			<ns0:width>6</ns0:width>
-		</ns0:LineStyle>
-	</ns0:Style>
-	<ns0:Style id="h1">
-		<ns0:LineStyle>
-			<ns0:color>99ff9900</ns0:color>
-			<ns0:width>6</ns0:width>
-		</ns0:LineStyle>
-	</ns0:Style>
-	<ns0:Style id="h2">
-		<ns0:LineStyle>
-			<ns0:color>99ff9900</ns0:color>
-			<ns0:width>6</ns0:width>
-		</ns0:LineStyle>
-	</ns0:Style>
-	<ns0:Style id="h3">
-		<ns0:LineStyle>
-			<ns0:color>99ff9900</ns0:color>
-			<ns0:width>6</ns0:width>
-		</ns0:LineStyle>
-	</ns0:Style>
-	<ns0:Style id="h4">
-		<ns0:LineStyle>
-			<ns0:color>99ff9900</ns0:color>
-			<ns0:width>6</ns0:width>
-		</ns0:LineStyle>
-	</ns0:Style>
-	<ns0:Style id="h5">
-		<ns0:LineStyle>
-			<ns0:color>99ff9900</ns0:color>
-			<ns0:width>6</ns0:width>
-		</ns0:LineStyle>
-	</ns0:Style>
-	<ns0:Style id="h6">
-		<ns0:LineStyle>
-			<ns0:color>99ff9900</ns0:color>
-			<ns0:width>6</ns0:width>
-		</ns0:LineStyle>
-	</ns0:Style>
+	<description />
+	<Style id="h0">
+		<LineStyle>
+			<color>99ff9900</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="h1">
+		<LineStyle>
+			<color>99ff9900</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="h2">
+		<LineStyle>
+			<color>99ff9900</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="h3">
+		<LineStyle>
+			<color>99ff9900</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="h4">
+		<LineStyle>
+			<color>99ff9900</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="h5">
+		<LineStyle>
+			<color>99ff9900</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="h6">
+		<LineStyle>
+			<color>99ff9900</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
 <Placemark><styleURL>#h0</styleURL><LineString><coordinates>139.617980000,35.412495000
 139.617890000,35.412457000
 139.617780000,35.412460000
@@ -447,5 +447,5 @@
 139.617860000,35.412476000
 139.617950000,35.412468000
 139.618060000,35.412476000
-</coordinates></LineString></Placemark></ns0:Document>
-</ns0:kml>
+</coordinates></LineString></Placemark></Document>
+</kml>
