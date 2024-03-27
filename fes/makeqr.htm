@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<HEAD>
+<title>QR読み取り</title>
+<script src="https://cdn.jsdelivr.net/npm/qrcode@latest/build/qrcode.min.js"></script>
+<script src='lib/qr.js'></script>
+</head>
+<body onload='make_qr("qr","https://strsho.github.io/sendai/fes/shop.htm");' >
+<div>
+<h1>店舗/商品説明</h1>
+QRコードをスマートフォンで読み取ってください。
+</div>
+<div>
+<canvas id="qr" ></canvas>
+</div>
+</body>
+</html>
+
