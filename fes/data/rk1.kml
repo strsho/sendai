@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.w3.org/2005/Atom">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>sample</name>
-	<ns1:author>
-		<ns1:name>sample</ns1:name>
-	</ns1:author>
+	<atom:author>
+		<atom:name>sample</atom:name>
+	</atom:author>
 	<description />
 	<Style id="h0">
 		<LineStyle>
@@ -48,7 +48,7 @@
 			<width>6</width>
 		</LineStyle>
 	</Style>
-<Placemark><styleURL>#h0</styleURL><LineString><coordinates>139.617980000,35.412495000
+<Placemark><styleUrl>#h0</styleUrl><LineString><coordinates>139.617980000,35.412495000
 139.617890000,35.412457000
 139.617780000,35.412460000
 139.617680000,35.412464000
